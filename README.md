@@ -38,7 +38,7 @@ A proxy server acts as an intermediary between a client and a destination server
 
 - **Load Balancing**: Reverse proxies can distribute incoming traffic across multiple servers, improving performance and reliability.
 
-## Why Implement This Proxy Server?
+## Why Implement a Proxy Server?
 
 Implementing a proxy server from scratch can be a valuable exercise for several reasons:
 
