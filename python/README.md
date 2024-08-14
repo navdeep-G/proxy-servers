@@ -20,6 +20,6 @@ This is a simple HTTP proxy server implemented in Python. It accepts client conn
 
 3. **Test the proxy**:
 
-   Open a web browser or an HTTP client (like curl) and make requests to any website.
-   The proxy server will display the incoming connections and relay the data between your client and the server.
+   - Open a web browser or an HTTP client (like curl) and make requests to any website.
+   - The proxy server will display the incoming connections and relay the data between your client and the server.
 
