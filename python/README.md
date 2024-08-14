@@ -15,9 +15,8 @@ This is a simple HTTP proxy server implemented in Python. It accepts client conn
 
 2. **Configure your browser (or any HTTP client) to use the proxy**:
 
-   Proxy host: 127.0.0.1
-   Proxy port: 8888
-   Test the proxy:
+   - Proxy host: 127.0.0.1
+   - Proxy port: 8888
 
 3. **Test the proxy**:
 
