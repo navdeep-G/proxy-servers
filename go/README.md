@@ -15,8 +15,8 @@ This is a simple HTTP proxy server implemented in Go. It accepts client connecti
 
 2. **Configure your browser (or any HTTP client) to use the proxy**:
 
-   Proxy host: 127.0.0.1
-   Proxy port: 8888
+   - Proxy host: 127.0.0.1
+   - Proxy port: 8888
    
 4. **Test the proxy**:
 
