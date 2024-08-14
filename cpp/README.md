@@ -1,4 +1,4 @@
-d# C++ Proxy Server
+# C++ Proxy Server
 
 This is a simple HTTP proxy server implemented in C++. It accepts client connections, forwards the HTTP requests to the target server, and then sends the server's response back to the client.
 
