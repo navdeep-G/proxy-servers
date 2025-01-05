@@ -1,6 +1,6 @@
 # Proxy Servers
 
-This repository contains a simple HTTP proxy server implemented in four different programming languages: Python, Go, Java, and C++. Each implementation is located in its respective directory and includes its own README with instructions on how to compile, run, and test the proxy server.
+This repository contains several HTTP proxy servers implemented in four different programming languages: Python, Go, Java, and C++. Each implementation is located in its respective directory and includes its own README with instructions on how to compile, run, and test the proxy server.
 
 ## What is a Proxy Server?
 
